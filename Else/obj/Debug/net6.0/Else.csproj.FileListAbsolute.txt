@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\bin\Debug\net6.0\Else.exe
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\bin\Debug\net6.0\Else.deps.json
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\bin\Debug\net6.0\Else.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\bin\Debug\net6.0\Else.dll
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\bin\Debug\net6.0\Else.pdb
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.dll
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\refint\Else.dll
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.pdb
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\Else.genruntimeconfig.cache
+C:\Users\Вячеслав\Desktop\111111\Hello-world\Else\obj\Debug\net6.0\ref\Else.dll
